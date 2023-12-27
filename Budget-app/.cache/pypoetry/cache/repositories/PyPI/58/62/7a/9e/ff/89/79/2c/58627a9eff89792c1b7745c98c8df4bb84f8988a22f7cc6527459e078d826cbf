@@ -1,0 +1,1 @@
+9999999999{"name": "django-bootstrap3", "version": "9.0.0", "summary": "Bootstrap support for Django projects", "requires_dist": null, "requires_python": null, "files": [{"file": "django-bootstrap3-9.0.0.tar.gz", "hash": "sha256:a6fb9a1d86c7c6f80be52dd05fdbdc418032caf2b0b147a47819eadd9757f9d7"}], "yanked": false, "_cache_version": "2.0.0"}
