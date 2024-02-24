@@ -1,4 +1,4 @@
-Estas experiencias han sido fundamentales para potenciar mis habilidades en programación, manipulación de datos y resolución de problemas computacionales en Python. Si desea explorar y poner a prueba estos proyectos, le recomiendo ejecutar los archivos .py "main", ya que desde allí se cargan las funciones base que he desarrollado para lograr el cumplimiento de las consignas específicas.
+Estas experiencias han sido fundamentales para potenciar mis habilidades en programación, manipulación de datos y resolución de problemas computacionales en Python. Si desea explorar y poner a prueba estos proyectos, le recomiendo compilar y ejecutar los archivos .py "main", ya que desde allí se cargan las funciones base que he desarrollado para lograr el cumplimiento de las consignas específicas.
 
 Si dea ver el codigo fundamental, debe ver las "funciones" que estan en otros archivos .py ignorando los archivos test y main.
 
