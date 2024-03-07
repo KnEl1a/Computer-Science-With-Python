@@ -6,7 +6,7 @@ Mi certificado del BootCamp de programación: [FreeCodeCamp](https://www.freecod
 
 #### Tecnologías utilizadas : Python 3.10 - VSCode (IDE)
 
-### Descripcion de Proyectos : 
+### Descripción de Proyectos : 
 
 **Aritmetic_Formater**: 
 Codifique una función que organiza y formatea problemas aritméticos en líneas verticales, proporcionando una visualización clara y ordenada de las operaciones matemáticas. Además, opcionalmente, puede mostrar las respuestas para cada problema. Ideal para la visualización y resolución de problemas matemáticos simples.
