@@ -1,7 +1,6 @@
 
 # Ciencias de la Computacion
-[![Captura-de-pantalla-2024-03-07-142211.png](https://i.postimg.cc/G383X5w6/Captura-de-pantalla-2024-03-07-142211.png)](https://postimg.cc/yWKzdnNT)
-
+Mi certificado de FreeCodeCamp: [Certificado de FreeCodeCamp](https://www.freecodecamp.org/certification/Knaus-Elias-Gustavo/scientific-computing-with-python-v7)
 # Descripcion de Proyectos : 
 
 Aritmetic_Formater: 
