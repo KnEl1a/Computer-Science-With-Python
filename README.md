@@ -9,7 +9,8 @@ Mi certificado del BootCamp de programación: [FreeCodeCamp](https://www.freecod
 ### Descripción de Proyectos : 
 
 **Aritmetic_Formater**: 
-Codifique una función que organiza y formatea problemas aritméticos en líneas verticales, proporcionando una visualización clara y ordenada de las operaciones matemáticas. Además, opcionalmente, puede mostrar las respuestas para cada problema. Ideal para la visualización y resolución de problemas matemáticos simples.
+Para el conjunto de funciones y la clase en el archivo `arithmetic_arranger.py`:
+Codifique una función que organiza y formatea problemas aritméticos en líneas verticales, proporcionando una visualización clara y ordenada de las operaciones matemáticas. Además, opcionalmente, puede mostrar las respuestas para cada problema. Es ideal para la visualización y resolución de problemas matemáticos simples.
 
 **Budget_App**:
 Para el conjunto de funciones y la clase en el archivo `budget.py`:
