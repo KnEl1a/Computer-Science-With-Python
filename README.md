@@ -4,7 +4,7 @@ Mi certificado del BootCamp de programación: [FreeCodeCamp](https://www.freecod
 
 [![pexels-realtoughcandycom-11035474.jpg](https://i.postimg.cc/hPZsbsxy/pexels-realtoughcandycom-11035474.jpg)](https://postimg.cc/bsb1qQmk)
 
-#### Tecnología empleada : Python 3.11, IDE: VSCode
+#### Tecnología empleada : Python 3.11, VSCode(IDE)
 
 ### Descripcion de Proyectos : 
 
