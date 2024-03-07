@@ -2,7 +2,7 @@
 # Ciencias de la Computacion
 Mi certificado del BootCamp de programación: [FreeCodeCamp](https://www.freecodecamp.org/certification/Knaus-Elias-Gustavo/scientific-computing-with-python-v7)
 
-[pexels-realtoughcandycom-11035474.jpg](https://postimg.cc/bsb1qQmk)
+[![pexels-realtoughcandycom-11035474.jpg](https://i.postimg.cc/hPZsbsxy/pexels-realtoughcandycom-11035474.jpg)](https://postimg.cc/bsb1qQmk)
 
 # Descripcion de Proyectos : 
 
