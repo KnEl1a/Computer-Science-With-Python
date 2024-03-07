@@ -4,7 +4,9 @@ Mi certificado del BootCamp de programación: [FreeCodeCamp](https://www.freecod
 
 [![pexels-realtoughcandycom-11035474.jpg](https://i.postimg.cc/hPZsbsxy/pexels-realtoughcandycom-11035474.jpg)](https://postimg.cc/bsb1qQmk)
 
-## Descripcion de Proyectos : 
+#### Tecnología empleada : Python 3.11, IDE: VSCode
+
+### Descripcion de Proyectos : 
 
 Aritmetic_Formater: 
 Codifique una función que organiza y formatea problemas aritméticos en líneas verticales, proporcionando una visualización clara y ordenada de las operaciones matemáticas. Además, opcionalmente, puede mostrar las respuestas para cada problema. Ideal para la visualización y resolución de problemas matemáticos simples.
@@ -26,7 +28,7 @@ para la función `add_time` en el archivo `time_calculator.py`:
 La función `add_time` toma una hora de inicio, una duración y, opcionalmente, un día de la semana, y calcula la nueva hora después de añadir la duración. Puede manejar formatos de hora tanto en formato de 12 horas como de 24 horas, y devuelve la nueva hora en formato de 12 horas, junto con el día de la semana si se proporciona. Además, indica si ha pasado un día adicional desde la hora inicial.
 
 
-### Conclusión
-Estas experiencias han sido fundamentales para potenciar mis habilidades en programación, manipulación de datos y resolución de problemas computacionales en Python. Si desea explorar y poner a prueba estos proyectos, le recomiendo compilar y ejecutar los archivos .py "main", ya que desde allí se cargan las funciones base que he desarrollado para lograr el cumplimiento de las consignas específicas.
+##### Conclusión
+Estas experiencias han sido fundamentales para potenciar mis habilidades en programación, manipulación de datos y resolución de problemas computacionales con Python. Si desea explorar y poner a prueba estos proyectos, le recomiendo compilar y ejecutar los archivos .py "main", ya que desde allí se cargan las funciones base que he desarrollado para lograr el cumplimiento de las consignas específicas.
 
 Si dea ver el codigo fundamental, debe ver dentro de las funciones que estan en otros archivos .py ignorando los archivos .py test y main.
