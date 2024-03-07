@@ -3,3 +3,9 @@ Estas experiencias han sido fundamentales para potenciar mis habilidades en prog
 Si dea ver el codigo fundamental, debe ver las "funciones" que estan en otros archivos .py ignorando los archivos test y main.
 
 Adicionalmente, en los archivos "readme", proporciono información detallada y enlaces demostrativos que ilustran las consignas y los resultados obtenidos. Esta documentación adicional facilita una comprensión más profunda de cada proyecto, sus objetivos y la implementación de los algoritmos. 
+
+Proyectos : 
+
+Aritmetic_Aranger
+"Una función que organiza y formatea problemas aritméticos en líneas verticales, proporcionando una visualización clara y ordenada de las operaciones matemáticas. Además, opcionalmente, puede mostrar las respuestas para cada problema. Ideal para la visualización y resolución de problemas matemáticos simples."
+
