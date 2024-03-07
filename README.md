@@ -1,4 +1,6 @@
 
+# Ciencias de la Computacion
+[![Captura-de-pantalla-2024-03-07-142211.png](https://i.postimg.cc/G383X5w6/Captura-de-pantalla-2024-03-07-142211.png)](https://postimg.cc/yWKzdnNT)
 
 # Descripcion de Proyectos : 
 
@@ -14,7 +16,7 @@ para las clases `Rectangle` y `Square` en el archivo `shape_calculator.py`:
 Este archivo proporciona la implementación de las clases `Rectangle` y `Square` para modelar formas geométricas en un plano bidimensional. La clase `Rectangle` representa un rectángulo con métodos para calcular área, perímetro, diagonal y generar una representación gráfica. La clase `Square` es una subclase de `Rectangle` y representa un cuadrado, heredando los métodos y atributos de la clase `Rectangle`, pero con un método adicional para establecer el lado del cuadrado.
 
 Probability_calculator:
-¨¨ara la clase `Hat` y la función `experiment` en el archivo `prob_calculator.py`:
+Para la clase `Hat` y la función `experiment` en el archivo `prob_calculator.py`:
 Este archivo presenta una clase `Hat` que simula un sombrero con bolas de diferentes colores. La clase permite añadir bolas de distintos colores y luego extraer una cantidad específica de bolas al azar. Además, proporciona una función `experiment` para realizar simulaciones de experimentos de extracción de bolas de un sombrero, calculando la probabilidad de extraer una combinación específica de bolas después de un número determinado de experimentos.
 
 Time_calculator:
