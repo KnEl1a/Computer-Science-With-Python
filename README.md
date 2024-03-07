@@ -6,6 +6,8 @@ Adicionalmente, en los archivos "readme", proporciono información detallada y e
 
 Proyectos : 
 
-Aritmetic_Aranger
-"Una función que organiza y formatea problemas aritméticos en líneas verticales, proporcionando una visualización clara y ordenada de las operaciones matemáticas. Además, opcionalmente, puede mostrar las respuestas para cada problema. Ideal para la visualización y resolución de problemas matemáticos simples."
+Aritmetic_Formater: 
+codifique una función que organiza y formatea problemas aritméticos en líneas verticales, proporcionando una visualización clara y ordenada de las operaciones matemáticas. Además, opcionalmente, puede mostrar las respuestas para cada problema. Ideal para la visualización y resolución de problemas matemáticos simples.
+
+
 
