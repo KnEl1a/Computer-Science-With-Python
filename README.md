@@ -1,35 +1,33 @@
-
-# Ciencias de la Computación
-Mi certificado del BootCamp de programación: [FreeCodeCamp](https://www.freecodecamp.org/certification/Knaus-Elias-Gustavo/scientific-computing-with-python-v7)
+# Computer Science
+My certificate from the Programming BootCamp: [FreeCodeCamp](https://www.freecodecamp.org/certification/Knaus-Elias-Gustavo/scientific-computing-with-python-v7)
 
 [![pexels-realtoughcandycom-11035474.jpg](https://i.postimg.cc/hPZsbsxy/pexels-realtoughcandycom-11035474.jpg)](https://postimg.cc/bsb1qQmk)
 
-#### Tecnologías utilizadas : Python 3.10 - VSCode (IDE)
+#### Technologies Used: Python 3.10 - VSCode (IDE)
 
-### Descripción de Proyectos : 
+### Project Descriptions: 
 
-**Aritmetic_Formater**: 
-Para el conjunto de funciones y la clase en el archivo `arithmetic_arranger.py`:
-Codifique una función que organiza y formatea problemas aritméticos en líneas verticales, proporcionando una visualización clara y ordenada de las operaciones matemáticas. Además, opcionalmente, puede mostrar las respuestas para cada problema. Es ideal para la visualización y resolución de problemas matemáticos simples.
+**Arithmetic Formatter**:
+For the set of functions and the class in the `arithmetic_arranger.py` file:
+Develop a function that arranges and formats arithmetic problems in vertical lines, providing a clear and orderly visualization of mathematical operations. Additionally, it can optionally display the answers for each problem. It is ideal for the visualization and resolution of simple mathematical problems.
 
-**Budget_App**:
-Para el conjunto de funciones y la clase en el archivo `budget.py`:
-Este archivo contiene funciones y una clase útiles para el manejo de categorías de gastos y generación de "gráficos" de barras representando el porcentaje de gastos por categoría. Las funciones incluyen cálculos de totales y truncamientos, mientras que la clase `Category` ofrece métodos para depositar, retirar, transferir fondos y verificar saldos. Ideal para aplicaciones de gestión financiera y visualización de datos de gastos.
+**Budget App**:
+For the set of functions and the class in the `budget.py` file:
+This file contains functions and a class useful for managing spending categories and generating bar "charts" representing the percentage of spending by category. The functions include total calculations and truncations, while the `Category` class offers methods for depositing, withdrawing, transferring funds, and checking balances. It is ideal for financial management applications and visualization of spending data.
 
-**Polygon-area-calculator**:
-Para las clases `Rectangle` y `Square` en el archivo `shape_calculator.py`:
-Este archivo proporciona la implementación de las clases `Rectangle` y `Square` para modelar formas geométricas en un plano bidimensional. La clase `Rectangle` representa un rectángulo con métodos para calcular área, perímetro, diagonal y generar una representación gráfica. La clase `Square` es una subclase de `Rectangle` y representa un cuadrado, heredando los métodos y atributos de la clase `Rectangle`, pero con un método adicional para establecer el lado del cuadrado.
+**Polygon Area Calculator**:
+For the `Rectangle` and `Square` classes in the `shape_calculator.py` file:
+This file provides the implementation of the `Rectangle` and `Square` classes to model geometric shapes in a two-dimensional plane. The `Rectangle` class represents a rectangle with methods to calculate area, perimeter, diagonal, and generate a graphical representation. The `Square` class is a subclass of `Rectangle` and represents a square, inheriting the methods and attributes of the `Rectangle` class, but with an additional method to set the side of the square.
 
-**Probability_calculator**:
-Para la clase `Hat` y la función `experiment` en el archivo `prob_calculator.py`:
-Este archivo presenta una clase `Hat` que simula un sombrero con bolas de diferentes colores. La clase permite añadir bolas de distintos colores y luego extraer una cantidad específica de bolas al azar. Además, proporciona una función `experiment` para realizar simulaciones de experimentos de extracción de bolas de un sombrero, calculando la probabilidad de extraer una combinación específica de bolas después de un número determinado de experimentos.
+**Probability Calculator**:
+For the `Hat` class and the `experiment` function in the `prob_calculator.py` file:
+This file presents a `Hat` class that simulates a hat with balls of different colors. The class allows adding balls of different colors and then drawing a specific number of balls at random. Additionally, it provides an `experiment` function to perform simulations of drawing balls from a hat, calculating the probability of drawing a specific combination of balls after a certain number of experiments.
 
-**Time_calculator**:
-Para la función `add_time` en el archivo `time_calculator.py`:
-La función `add_time` toma una hora de inicio, una duración y, opcionalmente, un día de la semana, y calcula la nueva hora después de añadir la duración. Puede manejar formatos de hora tanto en formato de 12 horas como de 24 horas, y devuelve la nueva hora en formato de 12 horas, junto con el día de la semana si se proporciona. Además, indica si ha pasado un día adicional desde la hora inicial.
+**Time Calculator**:
+For the `add_time` function in the `time_calculator.py` file:
+The `add_time` function takes a start time, a duration, and optionally a day of the week, and calculates the new time after adding the duration. It can handle both 12-hour and 24-hour formats and returns the new time in 12-hour format, along with the day of the week if provided. Additionally, it indicates if an additional day has passed since the initial time.
 
+##### Conclusion
+These experiences have been fundamental in enhancing my skills in programming, data manipulation, and solving computational problems with Python. If you want to explore and test these projects, I recommend compiling and running the main .py files, as they load the base functions I developed to meet the specific requirements.
 
-##### Conclusión
-Estas experiencias han sido fundamentales para potenciar mis habilidades en programación, manipulación de datos y resolución de problemas computacionales con Python. Si desea explorar y poner a prueba estos proyectos, le recomiendo compilar y ejecutar los archivos .py "main", ya que desde allí se cargan las funciones base que he desarrollado para lograr el cumplimiento de las consignas específicas.
-
-Si dea ver el codigo fundamental, debe ver dentro de las funciones que estan en otros archivos .py ignorando los archivos .py test y main.
+If you want to see the core code, you should look within the functions in other .py files, ignoring the test and main .py files.
