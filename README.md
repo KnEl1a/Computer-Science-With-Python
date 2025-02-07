@@ -1,7 +1,6 @@
 # Computer Science
 My certificate from the Programming BootCamp: [FreeCodeCamp](https://www.freecodecamp.org/certification/Knaus-Elias-Gustavo/scientific-computing-with-python-v7)
 
-[![pexels-realtoughcandycom-11035474.jpg](https://i.postimg.cc/hPZsbsxy/pexels-realtoughcandycom-11035474.jpg)](https://postimg.cc/bsb1qQmk)
 
 #### Technologies Used: Python 3.10 - VSCode (IDE)
 
